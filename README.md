@@ -1,5 +1,5 @@
 # Hospital_booking_management
-<p>Website to help people take an appointment to the required doctor using python and Django.With an appointment system, hospitals can offer patients the ability to book online.Patients can choose doctors from a list of available doctors under the required category and book for the required date.Once the appointment is taken,they will be given a success message that the hospital team may contact shortly.</p>
+<p>Website using python and Django,to help people take an appointment to the required doctor.With an appointment system, hospitals can offer patients the ability to book online.Patients can choose doctors from a list of available doctors under the required category and book for the required date.Once the appointment is taken,they will be given a success message that the hospital team may contact shortly.</p>
 <h3>Benefits</h3>
 <ul><li>Overcoming the challenges of long waiting lines.</li>
 <li>Reduced wait time</li>
